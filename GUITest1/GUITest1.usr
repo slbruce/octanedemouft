@@ -35,14 +35,18 @@ ProductName=Micro Focus Unified Functional Testing
 Version=15.0.2
 
 [TulipAddins]
+AgGrid=
 AI=
 Database=
 File Content=
 Insight=
+Java=
 Mobile=
 Windows Applications=
 TEA=
+UIGrid=
 Web=
+.NET=
 XML=
 
 [ExtraFiles]
